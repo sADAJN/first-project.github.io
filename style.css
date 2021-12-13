@@ -1,0 +1,18 @@
+body { font-family: "Meow Script", cursive; }
+
+ .main {
+      margin: auto; width: 1200px; border: aqua solid 2px;
+    }
+h1, h3 { 
+      text-align: center;
+     }
+   img {
+        width: 100px; height: 100px; border-radius: 30%;
+     }
+
+.left { width: 40%; padding: 15px; border-radius: 15px; -webkit-box-shadow: 4px 4px 8px 10px rgba(34, 60, 80, 0.2); -moz-box-shadow: 4px 4px 8px 10px rgba(34, 60, 80, 0.2); box-shadow: 4px 4px 8px 10px rgba(34, 60, 80, 0.2); }
+.left > table { margin: auto; padding-bottom: 70px; }
+    
+     td{
+         border-bottom: solid 2px black; } ul { list-style: none;
+        } 
